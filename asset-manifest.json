@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/spotifygraph/static/css/main.dec88749.chunk.css",
-    "main.js": "/spotifygraph/static/js/main.056fd68e.chunk.js",
-    "main.js.map": "/spotifygraph/static/js/main.056fd68e.chunk.js.map",
+    "main.css": "/spotifygraph/static/css/main.3ae34278.chunk.css",
+    "main.js": "/spotifygraph/static/js/main.9112c499.chunk.js",
+    "main.js.map": "/spotifygraph/static/js/main.9112c499.chunk.js.map",
     "runtime-main.js": "/spotifygraph/static/js/runtime-main.f29cb224.js",
     "runtime-main.js.map": "/spotifygraph/static/js/runtime-main.f29cb224.js.map",
-    "static/js/2.0c162571.chunk.js": "/spotifygraph/static/js/2.0c162571.chunk.js",
-    "static/js/2.0c162571.chunk.js.map": "/spotifygraph/static/js/2.0c162571.chunk.js.map",
+    "static/js/2.82b6e735.chunk.js": "/spotifygraph/static/js/2.82b6e735.chunk.js",
+    "static/js/2.82b6e735.chunk.js.map": "/spotifygraph/static/js/2.82b6e735.chunk.js.map",
     "index.html": "/spotifygraph/index.html",
-    "precache-manifest.ab18c4650b4af00e99b7b59ae8a95790.js": "/spotifygraph/precache-manifest.ab18c4650b4af00e99b7b59ae8a95790.js",
+    "precache-manifest.aeefc6c78cdd6ebb5190c31e242d66d2.js": "/spotifygraph/precache-manifest.aeefc6c78cdd6ebb5190c31e242d66d2.js",
     "service-worker.js": "/spotifygraph/service-worker.js",
-    "static/css/main.dec88749.chunk.css.map": "/spotifygraph/static/css/main.dec88749.chunk.css.map"
+    "static/css/main.3ae34278.chunk.css.map": "/spotifygraph/static/css/main.3ae34278.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f29cb224.js",
-    "static/js/2.0c162571.chunk.js",
-    "static/css/main.dec88749.chunk.css",
-    "static/js/main.056fd68e.chunk.js"
+    "static/js/2.82b6e735.chunk.js",
+    "static/css/main.3ae34278.chunk.css",
+    "static/js/main.9112c499.chunk.js"
   ]
 }
