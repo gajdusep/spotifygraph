@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/spotifygraph/static/css/main.a6da5fa3.chunk.css",
-    "main.js": "/spotifygraph/static/js/main.170f6603.chunk.js",
-    "main.js.map": "/spotifygraph/static/js/main.170f6603.chunk.js.map",
+    "main.css": "/spotifygraph/static/css/main.c1c1a25a.chunk.css",
+    "main.js": "/spotifygraph/static/js/main.8dbc1eeb.chunk.js",
+    "main.js.map": "/spotifygraph/static/js/main.8dbc1eeb.chunk.js.map",
     "runtime-main.js": "/spotifygraph/static/js/runtime-main.b384219d.js",
     "runtime-main.js.map": "/spotifygraph/static/js/runtime-main.b384219d.js.map",
-    "static/js/2.3a19bba6.chunk.js": "/spotifygraph/static/js/2.3a19bba6.chunk.js",
-    "static/js/2.3a19bba6.chunk.js.map": "/spotifygraph/static/js/2.3a19bba6.chunk.js.map",
+    "static/js/2.dfa27067.chunk.js": "/spotifygraph/static/js/2.dfa27067.chunk.js",
+    "static/js/2.dfa27067.chunk.js.map": "/spotifygraph/static/js/2.dfa27067.chunk.js.map",
     "index.html": "/spotifygraph/index.html",
-    "precache-manifest.b244875d17ca876da862ba5d54159fd2.js": "/spotifygraph/precache-manifest.b244875d17ca876da862ba5d54159fd2.js",
+    "precache-manifest.094eca64dd086d8996548b8d14c44b21.js": "/spotifygraph/precache-manifest.094eca64dd086d8996548b8d14c44b21.js",
     "service-worker.js": "/spotifygraph/service-worker.js",
-    "static/css/main.a6da5fa3.chunk.css.map": "/spotifygraph/static/css/main.a6da5fa3.chunk.css.map",
-    "static/js/2.3a19bba6.chunk.js.LICENSE.txt": "/spotifygraph/static/js/2.3a19bba6.chunk.js.LICENSE.txt"
+    "static/css/main.c1c1a25a.chunk.css.map": "/spotifygraph/static/css/main.c1c1a25a.chunk.css.map",
+    "static/js/2.dfa27067.chunk.js.LICENSE.txt": "/spotifygraph/static/js/2.dfa27067.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b384219d.js",
-    "static/js/2.3a19bba6.chunk.js",
-    "static/css/main.a6da5fa3.chunk.css",
-    "static/js/main.170f6603.chunk.js"
+    "static/js/2.dfa27067.chunk.js",
+    "static/css/main.c1c1a25a.chunk.css",
+    "static/js/main.8dbc1eeb.chunk.js"
   ]
 }
