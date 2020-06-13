@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/spotifygraph/static/css/main.c1c1a25a.chunk.css",
-    "main.js": "/spotifygraph/static/js/main.d96dce45.chunk.js",
-    "main.js.map": "/spotifygraph/static/js/main.d96dce45.chunk.js.map",
+    "main.css": "/spotifygraph/static/css/main.f79b2318.chunk.css",
+    "main.js": "/spotifygraph/static/js/main.76920ce4.chunk.js",
+    "main.js.map": "/spotifygraph/static/js/main.76920ce4.chunk.js.map",
     "runtime-main.js": "/spotifygraph/static/js/runtime-main.b384219d.js",
     "runtime-main.js.map": "/spotifygraph/static/js/runtime-main.b384219d.js.map",
-    "static/js/2.dfa27067.chunk.js": "/spotifygraph/static/js/2.dfa27067.chunk.js",
-    "static/js/2.dfa27067.chunk.js.map": "/spotifygraph/static/js/2.dfa27067.chunk.js.map",
+    "static/js/2.8b1d2420.chunk.js": "/spotifygraph/static/js/2.8b1d2420.chunk.js",
+    "static/js/2.8b1d2420.chunk.js.map": "/spotifygraph/static/js/2.8b1d2420.chunk.js.map",
     "index.html": "/spotifygraph/index.html",
-    "precache-manifest.aa3e8613c26c4c7cd7adb6ced0600c2e.js": "/spotifygraph/precache-manifest.aa3e8613c26c4c7cd7adb6ced0600c2e.js",
+    "precache-manifest.52c4277062401277f69b3e6dab131177.js": "/spotifygraph/precache-manifest.52c4277062401277f69b3e6dab131177.js",
     "service-worker.js": "/spotifygraph/service-worker.js",
-    "static/css/main.c1c1a25a.chunk.css.map": "/spotifygraph/static/css/main.c1c1a25a.chunk.css.map",
-    "static/js/2.dfa27067.chunk.js.LICENSE.txt": "/spotifygraph/static/js/2.dfa27067.chunk.js.LICENSE.txt"
+    "static/css/main.f79b2318.chunk.css.map": "/spotifygraph/static/css/main.f79b2318.chunk.css.map",
+    "static/js/2.8b1d2420.chunk.js.LICENSE.txt": "/spotifygraph/static/js/2.8b1d2420.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b384219d.js",
-    "static/js/2.dfa27067.chunk.js",
-    "static/css/main.c1c1a25a.chunk.css",
-    "static/js/main.d96dce45.chunk.js"
+    "static/js/2.8b1d2420.chunk.js",
+    "static/css/main.f79b2318.chunk.css",
+    "static/js/main.76920ce4.chunk.js"
   ]
 }
